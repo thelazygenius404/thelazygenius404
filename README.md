@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Computer Science student with a strong foundation in programming, algorithms, and software development. Proficient in languages such as C, SQL, VB.NET, and Assembly . Passionate about solving complex problems and continuously learning the latest technological trends. Skilled in collaborating on team projects . Currently seeking opportunities to apply my knowledge through internships and real-world projects to further develop my skills in software engineering, data science, and artificial intelligence.
+Aspiring Computer Science student with a strong foundation in programming, algorithms, and software development. Proficient in languages such as C/C++,PL/SQL,T-SQL,Java,Python and VB.NET . Passionate about solving complex problems and continuously learning the latest technological trends. Skilled in collaborating on team projects . Currently seeking opportunities to apply my knowledge through internships and real-world projects to further develop my skills in software engineering, data science, and artificial intelligence.
 
 
 ## 🌐 Socials:
